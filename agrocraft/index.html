@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Buy_Index</title>
+	
+	
+<link href="https://fonts.googleapis.com/css?family=Cormorant+Infant&display=swap" rel="stylesheet">
+<script src="https://kit.fontawesome.com/332a215f17.js" crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+<style>
+    *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif; 
+ }
+ :root{
+     --bg-color: #222327;
+     --text-color: #ffffff;
+     --main-color: #27d74a;
+     
+ }
+ 
+ body{
+     height: 100vh;
+     background-color: var(--bg-color);
+     background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(./Images/Homepage/first.jpg);
+     
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+ }
+	.logo i{
+        color: var(--main-color);
+        font-size: 28px;
+        margin-right: 3px;
+        align-items: center;
+        width: 100%;
+        height: 60px;
+        max-width: 1200px;
+        margin: 0 auto;
+        
+    }
+	#alogo{
+        text-decoration: none;
+        color:var(--text-color);
+        font-size: 1.2rem;
+    }
+    
+    #alogo:hover{
+        color: var(--main-color);
+    }
+
+    .logo #alogo{
+        font-size: 1.75rem;
+        font-weight: bold;
+    }
+    header{
+        position: relative;
+        padding: 2rem 2rem;
+    }
+    section#hero {
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+   }
+   section#hero h1 {
+     font-size: 60px;
+     margin-bottom: 20px;
+     font-family: 'Poppins', sans-serif;
+     
+   }
+   section#hero p{
+     line-height: 22px;
+     font-size: 16px;
+     margin-bottom: 10px;
+     font-family: 'Poppins', sans-serif;
+ 
+   }
+   .hero-btn {
+     padding: 12px 25px;
+     margin-top: 20px;
+     background: transparent;
+     border: 1px solid white;
+     color: white;
+     cursor: pointer;
+     transition: 0.7s;
+     line-height: 22px;
+     font-size: 16px;
+     font-weight: 700;
+     font-family: 'Poppins', sans-serif;
+   }
+ 
+   .hero-btn:hover {
+     background-color: #29fd53;
+   }
+ 
+  
+ 
+ 
+ section#hero{
+     height: calc(100vh - 60px);
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     color: var(--text-color);
+     
+ }
+ #hero h1{
+     font-size: 3rem;
+     margin-bottom: 1rem;
+ 
+ }
+ #hero h2{
+     font-size: 2rem;
+     margin-bottom: 1rem;
+ 
+ }
+ .action_btn {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    background-color:var(--main-color);
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+    width: 200px;
+    font-size: medium;
+   
+    
+}
+
+.action_btn:hover {
+    background-color: var(--bg-color);
+}
+ 
+ .action_btn:active{
+     scale: 0.95;
+ }
+ .row {
+    display: flex;
+    gap: 20px;
+   
+ }
+
+</style>
+</head>
+
+<body >
+	<header>
+		<div class="logo">
+			<i class="ri-leaf-fill"></i><a id="alogo" href="/Main_P/home/home.php">Cast-Climate</a></div>
+	</header>
+    <main>
+        <section id="hero">
+            <h1>Welcome To Cast-Climate</h1>
+            <h2> Login as</h2>
+    <div class="row">
+        
+        <a href="auth/FarmerLogin.php">
+            <button class="action_btn" >FARMER</button>
+            </a>
+            <br>
+            <a href="auth/BuyerLogin.php">
+            <button class="action_btn" >BUYER</button>
+            </a>
+    </div>
+   
+  
+
+    </section>
+    </main>
+</body>
+</html>
