@@ -26,6 +26,12 @@
 
 # Features
 ## E-Commerce Website for Farmers
+<center>
+
+![image](https://github.com/karthikpohane/CastClimate/assets/117158132/ab3e89f5-b0ee-4dc7-9996-956fd0c8b11a)
+
+    
+</center>
 The E-Commerce Website for Farmers is a user-friendly platform that allows farmers to:
 <ul>
     <li><p>Create and manage their profiles, including their farm details, contact information, and product inventory.</p></li>
@@ -37,6 +43,11 @@ The E-Commerce Website for Farmers is a user-friendly platform that allows farme
 <p>The E-Commerce Website utilizes a MySQL database and PHP for efficient data management. It also features a secure payment gateway to ensure safe and seamless transactions between farmers and buyers.</p>
 
 ## Crop Suggestion System
+<center>
+
+![image](https://github.com/karthikpohane/CastClimate/assets/117158132/5583a1d1-99ee-4073-9d4a-87ce421a0303)
+
+</center>
 <ul>
     <li><p>The Crop Suggestion System is a data-driven tool that recommends crops suited to specific regions and months. It considers various factors, such as climate, soil type, and market demand, to provide farmers with the most relevant and insightful recommendations.</p></li>
     <li><p>The Crop Suggestion System is powered by a machine learning algorithm that has been trained on a massive dataset of agricultural data. This allows the system to generate accurate and tailored recommendations for each farmer.</p></li>
