@@ -1,6 +1,9 @@
 # CastClimate -aka- AgroCast.
 <p>CastClimate, also known as AgroCast, is a comprehensive agricultural platform that combines an E-Commerce Website for Farmers with a Crop Suggestion System. It empowers farmers to sell their produce directly to buyers and provides crop recommendations tailored to specific regions and months, facilitating informed and optimized crop management decisions.</p>
 
+![image](https://github.com/karthikpohane/CastClimate/assets/117158132/f3b39bca-dc94-4c26-82eb-f6c3453ce891)
+
+
 # Table of Contents
 
 <table>
