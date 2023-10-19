@@ -28,7 +28,8 @@
 ## E-Commerce Website for Farmers
 <center>
 
-![image](https://github.com/karthikpohane/CastClimate/assets/117158132/ab3e89f5-b0ee-4dc7-9996-956fd0c8b11a)
+![image](https://github.com/karthikpohane/CastClimate/assets/117158132/46c318ec-48db-42d4-9f94-2054f21d2549)
+
 
     
 </center>
@@ -45,7 +46,8 @@ The E-Commerce Website for Farmers is a user-friendly platform that allows farme
 ## Crop Suggestion System
 <center>
 
-![image](https://github.com/karthikpohane/CastClimate/assets/117158132/5583a1d1-99ee-4073-9d4a-87ce421a0303)
+![Screenshot 2023-10-19 125356](https://github.com/karthikpohane/CastClimate/assets/117158132/c0efbc93-f3de-4dae-9b5d-4704e83a2e8e)
+
 
 </center>
 <ul>
