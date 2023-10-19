@@ -69,6 +69,7 @@ CastClimate primarily consists of the E-Commerce Website component:
 # Authors/Contributors.
 <ul>
     <li>Koonut Thongchang: https://github.com/koonut</li>
+    <li>Siddharth Raj: https://github.com/koonut</li>
 </ul>
 
 # Additional Information
