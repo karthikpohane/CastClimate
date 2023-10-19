@@ -107,10 +107,10 @@ CastClimate primarily consists of the E-Commerce Website component:
 </ul>
 
 ## License
-This project is licensed under the MIT License: LICENSE.
+This project is licensed under the MIT License: <a href="https://opensource.org/license/mit/" target="_blank">LICENSE.</a>
 
 <hr>
-<p>We welcome contributions from the community to help enhance and expand CastClimate. If you'd like to get involved, please read our Contributing Guidelines: CONTRIBUTING.md for more details on how to participate and submit your contributions.</p>
+<p>We welcome contributions from the community to help enhance and expand CastClimate. If you'd like to get involved, please read our Contributing Guidelines: <a href="https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors" target="_blank">CONTRIBUTING.md</a> for more details on how to participate and submit your contributions.</p>
 <center> CastClimate ©️ </center>
  
 
