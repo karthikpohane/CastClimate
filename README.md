@@ -61,7 +61,8 @@ To get started with CastClimate, you only need to set up the E-Commerce Website 
 CastClimate primarily consists of the E-Commerce Website component:
 <center>
 
-![Use Case](https://github.com/karthikpohane/CastClimate/assets/117158132/7b6b6d9c-8054-4d19-9607-ee635263c62d)
+![Use Case](https://github.com/karthikpohane/CastClimate/assets/117158132/4a389f23-c0e0-46a9-ba7a-de9ec6158fa6)
+
 
 </center>
 <p>E-Commerce Website: This user-friendly platform empowers farmers to list and sell their produce and allows buyers to conveniently purchase agricultural products. The E-Commerce Website employs a MySQL database and PHP for efficient data management.</p>
